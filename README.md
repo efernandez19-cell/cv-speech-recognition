@@ -1,4 +1,4 @@
-# cv-speech-recognition
+# cv-speech-Project
 Computer Vision &amp; Speech Recognition — SKEMA course work Erik 
 
 ## Clinical Task
