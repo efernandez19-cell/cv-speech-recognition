@@ -1,2 +1,2 @@
 # cv-speech-recognition
-Computer Vision &amp; Speech Recognition — SKEMA course work
+Computer Vision &amp; Speech Recognition — SKEMA course work Erik 
